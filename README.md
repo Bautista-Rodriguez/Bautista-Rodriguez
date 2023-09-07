@@ -2,7 +2,7 @@
 Soy estudiante de Ing. en Sistemas de Información, me apasiona el desarrollo de soluciones a problemas relacionados con los sistemas y la informática.
 
 Estoy en constante aprendizaje de nuevas teconologías que me permitan desarrollar código más avanzado y conciso.
-  
+
 - Correo electrónico: bautistarodriguezdl@gmail.com
 
 <h3 align="left">Lenguajes y herramientas:</h3>
