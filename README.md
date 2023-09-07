@@ -3,6 +3,7 @@ Soy estudiante de Ing. en Sistemas de Información, me apasiona el desarrollo de
 
 Estoy en constante aprendizaje de nuevas teconologías que me permitan desarrollar código más avanzado y conciso, para dar soluciones a problemas de la vida real.
 
+- Linkedin: www.linkedin.com/in/bautistarodriguez
 - Correo electrónico: bautistarodriguezdl@gmail.com
 
 <h3 align="left">Lenguajes y herramientas:</h3>
