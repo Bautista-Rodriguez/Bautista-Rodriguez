@@ -1,7 +1,7 @@
 ### Hola, soy Bautista Rodriguez👋
 Soy estudiante de Ing. en Sistemas de Información, me apasiona el desarrollo de soluciones a problemas relacionados con los sistemas y la informática.
 
-Estoy en constante aprendizaje de nuevas teconologías que me permitan desarrollar código más avanzado y conciso.
+Estoy en constante aprendizaje de nuevas teconologías que me permitan desarrollar código más avanzado y conciso, para dar soluciones a problemas de la vida real.
 
 - Correo electrónico: bautistarodriguezdl@gmail.com
 
